@@ -1,0 +1,15 @@
+.Logo{
+    border-radius: 50%;
+    height: 80px;
+    width: 150px;
+    position: relative;
+    right:40%;
+    
+}
+
+.listadeNavbar{
+    list-style: none;
+    position: relative;
+    left: 40%;
+    margin-top: 0px;
+}
